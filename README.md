@@ -27,4 +27,3 @@
 * Windows 10 64-разрядная операционная система, процессор x64
 * JAVA 11.0.10
 
-[]: https://github.com/Kiber-bob/HWJ1.1/issues/1
